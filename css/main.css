@@ -13,6 +13,13 @@
     margin: 10px;
 }
 
+.site-header-content-heading{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
 body{
     margin:0;
     background-color:rgb(44, 186, 230);
